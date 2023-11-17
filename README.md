@@ -1107,7 +1107,7 @@ window.addEventListener('scroll',change);
 ## OUTPUT:
 ![image](https://github.com/Richard01072002/softweb/assets/141472248/372c9c20-3ec7-4655-9de8-277ef6454e2c)
 
-![image](https://github.com/Richard01072002/softweb/assets/141472248/cd6b422e-31ad-40f9-88ea-5f988141e334)
+![image](https://github.com/Richard01072002/softweb/assets/141472248/0733a4db-b5df-4fbb-a439-e768efadec2d) 
 
 ![image](https://github.com/Richard01072002/softweb/assets/141472248/ecca8f4b-3e4f-415c-92e8-2a1c10348670)
 
